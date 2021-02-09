@@ -4,3 +4,4 @@ bushes
 greenary
 flowers
 trees and birds
+cloudy weather
